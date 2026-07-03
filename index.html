@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>有米甜無麩質手作甜點｜販售・介紹・教學</title>
+    <meta name="description" content="有米甜無麩質手作甜點官網，整合 7-11 賣貨便上架商品、品牌介紹、IG 預購資訊與有米甜研究室教學內容。" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header" data-header>
+      <a class="brand" href="#top" aria-label="回到首頁">
+        <img src="assets/youmitian-logo.png" alt="有米甜無麩質手作甜點 Logo" />
+        <span><strong>有米甜</strong><small>無麩質手作甜點</small></span>
+      </a>
+      <button class="menu-toggle" type="button" data-menu-toggle aria-label="開啟選單" aria-expanded="false"><span></span><span></span></button>
+      <nav class="site-nav" data-nav aria-label="主要導覽">
+        <a href="#shop">商品</a><a href="#fresh">最新動態</a><a href="#story">品牌介紹</a><a href="#learn">教學內容</a><a href="#contact">訂購連結</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <img class="hero-image" src="assets/hero-rice-dessert-studio.png" alt="米粉、手作甜點、筆記與包裝材料放在自然光工作台上" />
+        <div class="hero-shade"></div>
+        <div class="hero-content">
+          <img class="hero-logo" src="assets/youmitian-logo.png" alt="有米甜 Logo" />
+          <p class="eyebrow">Gluten-Free Handmade Desserts</p>
+          <h1 id="hero-title">有米甜無麩質手作甜點</h1>
+          <p class="hero-lede">以米穀粉取代小麥粉，販售手作甜點，也分享品牌故事、製作觀察與家庭版甜點教學。</p>
+          <div class="hero-actions">
+            <a class="button primary" href="#shop">查看上架商品</a>
+            <a class="button ghost" href="https://myship.7-11.com.tw/general/detail/GM2305188665189" target="_blank" rel="noreferrer">7-11 賣貨便下單</a>
+            <a class="button ghost" href="https://www.instagram.com/emma_sweet_rice/" target="_blank" rel="noreferrer">IG 最新公告</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="quick-links" aria-label="快速入口">
+        <a href="https://myship.7-11.com.tw/general/detail/GM2305188665189" target="_blank" rel="noreferrer"><strong>7-11 賣貨便</strong><span>查看即時庫存與下單</span></a>
+        <a href="https://www.instagram.com/emma_sweet_rice/" target="_blank" rel="noreferrer"><strong>Instagram</strong><span>新品、預購與出貨公告</span></a>
+        <a href="#learn"><strong>有米甜研究室</strong><span>米甜點教學與研發紀錄</span></a>
+      </section>
+
+      <section id="fresh" class="section-band muted" aria-labelledby="fresh-title">
+        <div class="section-inner">
+          <div class="section-heading split-heading">
+            <div><p class="section-kicker">Fresh Updates</p><h2 id="fresh-title">最新商品與 IG 動態</h2></div>
+            <p>官網商品資料可透過更新腳本每日同步賣貨便；IG 區塊可接官方 API 顯示最新 1 篇貼文。</p>
+          </div>
+          <div class="live-status">
+            <strong>商品資料更新時間</strong>
+            <span data-live-updated>尚未更新</span>
+          </div>
+          <div class="instagram-grid" data-instagram-grid></div>
+        </div>
+      </section>
+
+      <section id="shop" class="section-band" aria-labelledby="shop-title">
+        <div class="section-inner">
+          <div class="section-heading split-heading">
+            <div><p class="section-kicker">Shop</p><h2 id="shop-title">目前上架商品</h2></div>
+            <p>商品圖片、名稱、價格與規格取自 7-11 賣貨便目前上架資料。點擊商品可查看規格、成分與購買入口。</p>
+          </div>
+          <div class="shop-toolbar" aria-label="商品篩選">
+            <button class="filter-button active" type="button" data-category="all">全部</button>
+            <button class="filter-button" type="button" data-category="gift">禮盒 / 組合</button>
+            <button class="filter-button" type="button" data-category="cake">蛋糕 / 麵包</button>
+            <button class="filter-button" type="button" data-category="cookie">餅乾 / 酥脆點心</button>
+          </div>
+          <div class="product-grid" data-product-grid></div>
+        </div>
+      </section>
+
+      <section id="story" class="section-band muted" aria-labelledby="story-title">
+        <div class="section-inner story-grid">
+          <div><p class="section-kicker">About</p><h2 id="story-title">從不能吃麩質開始，重新找回甜點的選擇。</h2></div>
+          <div class="story-copy">
+            <p>有米甜是無麩質手作甜點品牌，使用米穀粉製作蛋糕、餅乾、泡芙、米貝果與禮盒。品牌不只販售成品，也把研發、保存、回烤與口感判斷整理成可理解的內容。</p>
+            <p>製作時間以假日為主，完成後隔日安排出貨。訂單相關問題可以在賣貨便訂單問與答詢問，最新預購資訊會以 IG 公告為主。</p>
+          </div>
+        </div>
+      </section>
+
+      <section id="learn" class="section-band" aria-labelledby="learn-title">
+        <div class="section-inner">
+          <div class="section-heading split-heading">
+            <div><p class="section-kicker">Learn</p><h2 id="learn-title">販售之外，也有教學與研究。</h2></div>
+            <p>有米甜研究室是官網內容的一部分，用來分享米製甜點、無麩質口感調整、家庭版做法、研發紀錄與長製程商品故事。</p>
+          </div>
+          <div class="learn-grid">
+            <article><span>01</span><h3>米製甜點口感研究</h3><p>米蛋糕為什麼容易乾、米粉和糯米粉口感差異、無麩質新手常見失敗原因。</p></article>
+            <article><span>02</span><h3>家庭版無麩質甜點</h3><p>可公開的家庭版做法與材料提醒，保留商品版製程與比例。</p></article>
+            <article><span>03</span><h3>研發與出貨紀錄</h3><p>記錄試作、等待、組裝、包裝與保存測試，讓客人理解手作甜點的工作量。</p></article>
+          </div>
+        </div>
+      </section>
+
+      <section id="contact" class="cta-section" aria-labelledby="contact-title">
+        <div class="cta-content">
+          <p class="section-kicker">Order / Follow</p>
+          <h2 id="contact-title">想下單或看最新開單資訊？</h2>
+          <p>官網提供商品介紹與入口；實際規格、庫存、配送與付款以 7-11 賣貨便頁面為準。</p>
+          <div class="hero-actions"><a class="button primary" href="https://myship.7-11.com.tw/general/detail/GM2305188665189" target="_blank" rel="noreferrer">前往賣貨便下單</a><a class="button dark" href="https://www.instagram.com/emma_sweet_rice/" target="_blank" rel="noreferrer">前往 IG</a></div>
+        </div>
+      </section>
+    </main>
+
+    <div class="product-modal" data-modal hidden>
+      <div class="modal-backdrop" data-close-modal></div>
+      <article class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+        <button class="modal-close" type="button" data-close-modal aria-label="關閉商品視窗">×</button>
+        <div class="modal-media"><img data-modal-image alt="" /></div>
+        <div class="modal-body">
+          <p class="section-kicker">Product</p><h2 id="modal-title" data-modal-title></h2><p class="modal-price" data-modal-price></p><p data-modal-summary></p>
+          <h3>規格與價格</h3><ul data-modal-specs></ul>
+          <h3>成分 / 內容說明</h3><p data-modal-ingredients></p>
+          <div class="modal-actions"><a class="button primary" href="https://myship.7-11.com.tw/general/detail/GM2305188665189" target="_blank" rel="noreferrer">到賣貨便購買</a><button class="button light" type="button" data-close-modal>繼續逛逛</button></div>
+        </div>
+      </article>
+    </div>
+
+    <footer class="site-footer"><p>有米甜無麩質手作甜點｜販售・介紹・教學</p><a href="#top">回到上方</a></footer>
+    <script src="script.js"></script>
+  </body>
+</html>
