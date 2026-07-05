@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-07-04T19:33:57.977Z";
+const SITE_DATA_UPDATED_AT = "2026-07-05T19:39:30.730Z";
 const PRODUCTS = [
   {
     "id": "2602121036723172",
@@ -11,9 +11,9 @@ const PRODUCTS = [
     "detail": "米貝果 x一份( 4顆) (口味：原味/葡萄乾核桃/草莓/藍莓 依選項)+無麩質青蔥餅乾 x 1 包 (15塊入) 商品特色： 外皮Q彈、內裡濕潤保水的獨特口感。不論是原味米香，還是果乾核桃的豐富層次，都能給你滿滿的飽足感。 早餐吃完主食，總想來點鹹的解解饞？這組特別搭配了古早味的青蔥餅乾。青蔥餅乾的鹹香，配上酥脆的米餅口感，越嚼越香。 一顆貝果補充滿滿元氣，一片鹹餅乾喚醒味蕾，這是我們為你準備的完美早午餐提案。 食用建議 (米貝果回烤)： 建議冷凍保存避免老化 電鍋： 外鍋放一點點水（約10ml），跳起即可食用（口感軟Q）。 烤箱/氣炸： 退冰後貝果表面噴點水，180度回烤 10-15 分鐘（外酥內軟）。註：此為參考值，實際操作溫度及時間請參照各家烤箱功能。 成份： 米貝果-蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 *草莓/藍莓/葡萄乾尬核桃貝果，額外加入草莓/藍莓果醬或是葡萄乾尬核桃 青蔥餅乾-奶油、蓬萊米粉、豆漿、糖粉、杏仁粉、蔥粉、乾燥蔥末、鹽、洋車前子粉",
     "ingredients": "米貝果-蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 *草莓/藍莓/葡萄乾尬核桃貝果，額外加入草莓/藍莓果醬或是葡萄乾尬核桃 青蔥餅乾-奶油、蓬萊米粉、豆漿、糖粉、杏仁粉、蔥粉、乾燥蔥末、鹽、洋車前子粉",
     "specs": [
+      "原味貝果+青蔥餅乾 / NT$550（原價 NT$560）",
       "草莓貝果+青蔥餅乾 / NT$640（原價 NT$650）",
       "藍莓貝果+青蔥餅乾 / NT$640（原價 NT$650）",
-      "原味貝果+青蔥餅乾 / NT$550（原價 NT$560）",
       "葡萄乾尬核桃貝果+青蔥餅乾 / NT$680（原價 NT$700）"
     ],
     "minOrder": 0,
@@ -81,11 +81,11 @@ const PRODUCTS = [
       "女寶（梔子紅棉花糖）無水果有搖籃 / NT$600",
       "男寶（梔子藍棉花糖）無水果無搖籃 / NT$490",
       "女寶（梔子紅棉花糖）無水果無搖籃 / NT$490",
-      "男寶（梔子藍棉花糖）+（香蕉+百香果）有搖籃 / NT$800",
-      "女寶（梔子紅棉花糖）+（芭樂+火龍果）有搖籃 / NT$800",
-      "男寶（梔子藍棉花糖）+（香蕉+百香果）無搖籃 / NT$670",
+      "男寶（梔子藍棉花糖）無水果有搖籃 / NT$600",
       "女寶（梔子紅棉花糖）+（芭樂+火龍果）無搖籃 / NT$670",
-      "男寶（梔子藍棉花糖）無水果有搖籃 / NT$600"
+      "男寶（梔子藍棉花糖）+（香蕉+百香果）無搖籃 / NT$670",
+      "女寶（梔子紅棉花糖）+（芭樂+火龍果）有搖籃 / NT$800",
+      "男寶（梔子藍棉花糖）+（香蕉+百香果）有搖籃 / NT$800"
     ],
     "minOrder": 0,
     "maxOrder": 0
@@ -127,8 +127,8 @@ const PRODUCTS = [
     "detail": "探索蜂蜜米蛋糕的獨特魅力，無需麵粉的限制，讓美味無負擔。適合作為下午茶點心或聚會分享，與好友共度甜蜜時光，讓這份天然滋味在舌尖舞動，為生活增添一份愉悅與驚喜！ 重量：270g",
     "ingredients": "依賣貨便商品頁與包裝標示為準。",
     "specs": [
-      "原味 / NT$320（原價 NT$350）",
-      "鴨腳木蜜 / NT$350（原價 NT$380）"
+      "鴨腳木蜜 / NT$350（原價 NT$380）",
+      "原味 / NT$320（原價 NT$350）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -212,10 +212,10 @@ const PRODUCTS = [
     "detail": "原味貝果 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "ingredients": "蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "specs": [
+      "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
+      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "葡萄乾尬核桃 / NT$330（原價 NT$350）",
       "原味 / NT$210（原價 NT$250）",
-      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
-      "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "芝麻米貝果 / NT$260（原價 NT$300）"
     ],
     "minOrder": 0,
@@ -316,8 +316,8 @@ const PRODUCTS = [
     "detail": "成份：蓬萊米粉、無鹽奶油、白巧克力、葡萄乾、純糖粉、白蘭地、雞蛋、杏仁粉、奶粉、洋車前子粉、鹽 這款餅乾使用全天然的無麩質材料，適合對麩質過敏的人士食用。餅乾的外層酥脆可口，內層則是佐以香濃的白蘭地酒醃漬的葡萄拌入香濃但不膩口的奶油夾心，口感豐富，令人回味無窮。無論是下午茶、小酌時或是送禮自用，都是不錯的選擇。",
     "ingredients": "蓬萊米粉、無鹽奶油、白巧克力、葡萄乾、純糖粉、白蘭地、雞蛋、杏仁粉、奶粉、洋車前子粉、鹽 這款餅乾使用全天然的無麩質材料，適合對麩質過敏的人士食用。餅乾的外層酥脆可口，內層則是佐以香濃的白蘭地酒醃漬的葡萄拌入香濃但不膩口的奶油夾心，口感豐富，令人回味無窮。無論是下午茶、小酌時或是送禮自用，都是不錯的選擇。",
     "specs": [
-      "30塊一組 / NT$1700（原價 NT$1840）",
-      "15塊一組 / NT$880（原價 NT$920）"
+      "15塊一組 / NT$880（原價 NT$920）",
+      "30塊一組 / NT$1700（原價 NT$1840）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -348,8 +348,8 @@ const PRODUCTS = [
     "detail": "使用蓬萊米粉來製作杏仁瓦片，口感酥脆，杏仁片香濃，適合當下午茶點心 成份：杏仁片、蛋白、純糖粉、蓬萊米粉 規格：直徑8cm",
     "ingredients": "杏仁片、蛋白、純糖粉、蓬萊米粉 規格：直徑8cm",
     "specs": [
-      "一組24片 / NT$500（原價 NT$550）",
-      "一組12片 / NT$250（原價 NT$300）"
+      "一組12片 / NT$250（原價 NT$300）",
+      "一組24片 / NT$500（原價 NT$550）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -361,7 +361,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "新品上市預備備，目前正在繼續改良中，猜猜看他是什麼~~",
     "url": "https://www.instagram.com/p/DaUO183ywwd/",
-    "image": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xIJF-wnTQroQ7kNvwFYYKb_&_nc_oc=AdqRRWJulwNS4ovCQbPeZyH00slY36LAaMTCy7ZnIzan2XucvFAJO20hMXIUTGn0X9s&_nc_zt=23&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=i7j9cFnjnCsK9mF3un2xyw&_nc_tpa=Q5bMBQGiBxaHp1kOfalKQ2pS2eRp8IY6etJ6suWPzzYQ5uJo5pbFcWO_JzuT9GuutVUJ1QSNp-XHnRaWVA&oh=00_AQCuVJQkbQ49zhqin9k2ZQzRxoQWkexZJmyrBQFUMBk1pg&oe=6A4F1C22"
+    "image": "https://scontent-ams2-1.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xIJF-wnTQroQ7kNvwEsIjLq&_nc_oc=Adodv1f_a0KKkane-s3dTjCryUIbFqBXGE1pm1Dxe7aMUquwKhWNQ79V_GgJNdBGYUc&_nc_zt=23&_nc_ht=scontent-ams2-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0nmjVAYbeLklEMZNeUCOLw&_nc_tpa=Q5bMBQEo367KYNI8WcBLCwEEUTyOoExDT-4h5OikmhXsfmqmWJMu960ELzxWpJnC9irkinNTNB5cG3dLjg&oh=00_AQBLPSSMwQQCsGbIudzfx_fTxUEtu59PWvn2EG8pdWdS7w&oe=6A506DA2"
   }
 ];
 
