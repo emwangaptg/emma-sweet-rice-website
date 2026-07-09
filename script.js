@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-07-08T19:49:18.632Z";
+const SITE_DATA_UPDATED_AT = "2026-07-09T20:00:38.515Z";
 const PRODUCTS = [
   {
     "id": "2602121036723172",
@@ -13,8 +13,8 @@ const PRODUCTS = [
     "specs": [
       "原味貝果+青蔥餅乾 / NT$550（原價 NT$560）",
       "草莓貝果+青蔥餅乾 / NT$640（原價 NT$650）",
-      "藍莓貝果+青蔥餅乾 / NT$640（原價 NT$650）",
-      "葡萄乾尬核桃貝果+青蔥餅乾 / NT$680（原價 NT$700）"
+      "葡萄乾尬核桃貝果+青蔥餅乾 / NT$680（原價 NT$700）",
+      "藍莓貝果+青蔥餅乾 / NT$640（原價 NT$650）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -212,9 +212,9 @@ const PRODUCTS = [
     "detail": "原味貝果 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "ingredients": "蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "specs": [
-      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "葡萄乾尬核桃 / NT$330（原價 NT$350）",
       "原味 / NT$210（原價 NT$250）",
+      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "芝麻米貝果 / NT$260（原價 NT$300）"
     ],
@@ -361,7 +361,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "新品上市預備備，目前正在繼續改良中，猜猜看他是什麼~~",
     "url": "https://www.instagram.com/p/DaUO183ywwd/",
-    "image": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DN38c5Yo23gQ7kNvwFU48ID&_nc_oc=AdrqI9YsRhaMlGhRVdI0PjI5z2M8913YuaLY4MffVxiVNBXUPBAzXU-NKNupSlLVgUQ&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=r_gpRuQVR0dO--tsmB5Oig&_nc_tpa=Q5bMBQH2Ygd_QI3qCVrAEecg2cLcuwUz8ecPeVx3diLU666rtzF6ofIdSwSVgdUK7jYW6Dndq0WVYZxYtw&oh=00_AQDgni3KLdf0PhKK9W7EKeoZBXsYWBWH-KPVplkEkucIYg&oe=6A546222"
+    "image": "https://scontent-sin6-3.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DN38c5Yo23gQ7kNvwGt9Lq8&_nc_oc=Adq84fnZGDdL5-BtMTBVxMRKcxWrJJp41CVcLj8AmNKs0aY24xUClApTZ80Th-B1jIs&_nc_zt=23&_nc_ht=scontent-sin6-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_1IWOmfdbh6OVNqsPB2fKQ&_nc_tpa=Q5bMBQGfJXHXrHMhEmfFpewljq_1GmdlZOXugDo8uOkT7snP3qnmbgCQ9ziwcOj8nVeXH3RYSN48Jue2oA&oh=00_AQA-J_xgoar6HkXOwXJ6hv5VVKbvgVB3b04NK2PJaMB0rw&oe=6A55EBE2"
   }
 ];
 
