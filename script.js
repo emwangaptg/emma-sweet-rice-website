@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-07-17T19:23:12.523Z";
+const SITE_DATA_UPDATED_AT = "2026-07-18T19:18:57.396Z";
 const PRODUCTS = [
   {
     "id": "2602121036723172",
@@ -78,14 +78,14 @@ const PRODUCTS = [
     "detail": "成份：如圖片 六顆一組 『初語』不只是寶寶的開口，也象徵著稻米的成長與甜蜜的開始。 我們希望這份禮盒，不只是點心，更能代表祝福與分享。因此設計成『寶寶搖籃』的造型，象徵新生、豐收與家人朋友的歡聚。 這份甜點就像是一份甜蜜的祝賀，使用台灣在地的米和水果，迎接新生命的到來。」 《米仔初語》有兩款口味：香蕉＋百香果，以及芭樂＋火龍果，分別代表了男寶與女寶，所以客人在購買時會是一整盒同一口味，並不會有一盒裡有兩種口味的合體。也有無水果的版本可供選擇，棉花糖使用天然色素 《米仔初語》是一份從台灣土地出發的甜點，結合了無麩質的理念、在地水果的風味，以及對新生命的祝福。 *有特殊數量需求可私訊討論*",
     "ingredients": "如圖片 六顆一組 『初語』不只是寶寶的開口，也象徵著稻米的成長與甜蜜的開始。 我們希望這份禮盒，不只是點心，更能代表祝福與分享。因此設計成『寶寶搖籃』的造型，象徵新生、豐收與家人朋友的歡聚。 這份甜點就像是一份甜蜜的祝賀，使用台灣在地的米和水果，迎接新生命的到來。」 《米仔初語》有兩款口味：香蕉＋百香果，以及芭樂＋火龍果，分別代表了男寶與女寶，所以客人在購買時會是一整盒同一口味，並不會有一盒裡有兩種口味的合體。也有無水果的版本可供選擇，棉花糖使用天然色素 《米仔初語》是一份從台灣土地出發的甜點，結合了無麩質的理念、在地水果的風味，以及對新生命的祝福。 *有特殊數量需求可私訊討論*",
     "specs": [
-      "女寶（梔子紅棉花糖）+（芭樂+火龍果）無搖籃 / NT$670",
       "男寶（梔子藍棉花糖）無水果有搖籃 / NT$600",
       "女寶（梔子紅棉花糖）無水果有搖籃 / NT$600",
       "男寶（梔子藍棉花糖）無水果無搖籃 / NT$490",
       "女寶（梔子紅棉花糖）無水果無搖籃 / NT$490",
-      "男寶（梔子藍棉花糖）+（香蕉+百香果）有搖籃 / NT$800",
+      "女寶（梔子紅棉花糖）+（芭樂+火龍果）無搖籃 / NT$670",
+      "男寶（梔子藍棉花糖）+（香蕉+百香果）無搖籃 / NT$670",
       "女寶（梔子紅棉花糖）+（芭樂+火龍果）有搖籃 / NT$800",
-      "男寶（梔子藍棉花糖）+（香蕉+百香果）無搖籃 / NT$670"
+      "男寶（梔子藍棉花糖）+（香蕉+百香果）有搖籃 / NT$800"
     ],
     "minOrder": 0,
     "maxOrder": 0
@@ -212,10 +212,10 @@ const PRODUCTS = [
     "detail": "原味貝果 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "ingredients": "蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "specs": [
+      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
+      "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "葡萄乾尬核桃 / NT$330（原價 NT$350）",
       "原味 / NT$210（原價 NT$250）",
-      "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
-      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "芝麻米貝果 / NT$260（原價 NT$300）"
     ],
     "minOrder": 0,
@@ -316,8 +316,8 @@ const PRODUCTS = [
     "detail": "成份：蓬萊米粉、無鹽奶油、白巧克力、葡萄乾、純糖粉、白蘭地、雞蛋、杏仁粉、奶粉、洋車前子粉、鹽 這款餅乾使用全天然的無麩質材料，適合對麩質過敏的人士食用。餅乾的外層酥脆可口，內層則是佐以香濃的白蘭地酒醃漬的葡萄拌入香濃但不膩口的奶油夾心，口感豐富，令人回味無窮。無論是下午茶、小酌時或是送禮自用，都是不錯的選擇。",
     "ingredients": "蓬萊米粉、無鹽奶油、白巧克力、葡萄乾、純糖粉、白蘭地、雞蛋、杏仁粉、奶粉、洋車前子粉、鹽 這款餅乾使用全天然的無麩質材料，適合對麩質過敏的人士食用。餅乾的外層酥脆可口，內層則是佐以香濃的白蘭地酒醃漬的葡萄拌入香濃但不膩口的奶油夾心，口感豐富，令人回味無窮。無論是下午茶、小酌時或是送禮自用，都是不錯的選擇。",
     "specs": [
-      "30塊一組 / NT$1700（原價 NT$1840）",
-      "15塊一組 / NT$880（原價 NT$920）"
+      "15塊一組 / NT$880（原價 NT$920）",
+      "30塊一組 / NT$1700（原價 NT$1840）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -348,8 +348,8 @@ const PRODUCTS = [
     "detail": "使用蓬萊米粉來製作杏仁瓦片，口感酥脆，杏仁片香濃，適合當下午茶點心 成份：杏仁片、蛋白、純糖粉、蓬萊米粉 規格：直徑8cm",
     "ingredients": "杏仁片、蛋白、純糖粉、蓬萊米粉 規格：直徑8cm",
     "specs": [
-      "一組24片 / NT$500（原價 NT$550）",
-      "一組12片 / NT$250（原價 NT$300）"
+      "一組12片 / NT$250（原價 NT$300）",
+      "一組24片 / NT$500（原價 NT$550）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -361,7 +361,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "新品上市預備備，目前正在繼續改良中，猜猜看他是什麼~~",
     "url": "https://www.instagram.com/p/DaUO183ywwd/",
-    "image": "https://scontent-ord5-3.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UfKkpRk_wasQ7kNvwFirT6l&_nc_oc=AdpZUXRCaPgLxe6KCatbCajbJCLOSSUo-YlChSf3CxYgmgHoqrXlEt11SselfEZytXg&_nc_zt=23&_nc_ht=scontent-ord5-3.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=dsihn_MA5USbK-qpQBkJeQ&_nc_tpa=Q5bMBQHrQlzGuxpIBiGSeJkRmaHvG7ykWFrYkMRiRRF5dTQ7wFpE4y0X3gLTaKYb5C0J9KlRHNDKoGnpPA&oh=00_AQDy8Bo4xBzQWgL3H-K8um_lWG8vjVG5PIPHyUkywlgd9g&oe=6A603FA2"
+    "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=UfKkpRk_wasQ7kNvwFm3YTQ&_nc_oc=Adpw-4zcLMg5QbsY-LtVWFb9sH2J_U10mHIYGXjWATFa-Qw7dlfodstr38iOfFQDTPs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=94HvNQluVs9pKTDZaWqN1w&_nc_tpa=Q5bMBQHq6fl2nBi1VY3XzJoJ0fD-lJXcuZ4njYVLzpULHDCQRDE0G6EMcAUDnWlhJRqsHWKKKpRKnCjzZg&oh=00_AQBB6ircLtiqCKoa4J3hUwet4cN9VP9NaJOf0rs46b_0SA&oe=6A619122"
   }
 ];
 
