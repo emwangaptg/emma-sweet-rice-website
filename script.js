@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-07-19T19:21:00.045Z";
+const SITE_DATA_UPDATED_AT = "2026-07-20T19:53:50.865Z";
 const PRODUCTS = [
   {
     "id": "2602121036723172",
@@ -43,12 +43,12 @@ const PRODUCTS = [
     "detail": "米製蜂蜜蛋糕 (270G)x 1 條+杏仁瓦片(12片)/巧克力酥片(6塊)/布朗尼脆片(1盒) 商品特色： 這組商品是米製烘焙最純粹的美味展現。蜂蜜蛋糕完全依靠雞蛋打發支撐蛋糕體，口感濕潤綿密，蛋香中透著淡雅的米甜味，成分單純讓小朋友也能安心大口吃。 無論是滿滿堅果香的杏仁瓦片，還是濃郁的巧克力酥片，亦或是酥脆香濃的布朗尼脆片，那種輕薄爽脆的口感，剛好與軟綿的蛋糕形成完美對比。一軟一脆，蛋糕配上脆片，就是最滿足的下午茶組合。 成分： 米蜂蜜蛋糕-蓬萊米粉、糯米粉、水、砂糖、雞蛋、蜂蜜/鴨腳木蜜、檸檬汁 杏仁瓦片-杏仁片、蛋、糖、蓬萊米粉 巧克力酥片-巧克力、雞蛋、蓬萊米粉、玄米油、糖、可可粉、腰果 布朗尼脆片-巧克力、雞蛋、蓬萊米粉、玄米油、糖、可可粉、杏仁片、鹽",
     "ingredients": "米蜂蜜蛋糕-蓬萊米粉、糯米粉、水、砂糖、雞蛋、蜂蜜/鴨腳木蜜、檸檬汁 杏仁瓦片-杏仁片、蛋、糖、蓬萊米粉 巧克力酥片-巧克力、雞蛋、蓬萊米粉、玄米油、糖、可可粉、腰果 布朗尼脆片-巧克力、雞蛋、蓬萊米粉、玄米油、糖、可可粉、杏仁片、鹽",
     "specs": [
+      "原味蜂蜜蛋糕+杏仁瓦片 / NT$550（原價 NT$570）",
       "原味蜂蜜蛋糕+巧克力酥片 / NT$700（原價 NT$720）",
       "原味蜂蜜蛋糕+布朗尼脆片 / NT$650（原價 NT$670）",
       "鴨腳木蜂蜜蛋糕+杏仁瓦片 / NT$590（原價 NT$600）",
       "鴨腳木蜂蜜蛋糕+巧克力酥片 / NT$740（原價 NT$750）",
-      "鴨腳木蜂蜜蛋糕+布朗尼脆片 / NT$690（原價 NT$700）",
-      "原味蜂蜜蛋糕+杏仁瓦片 / NT$550（原價 NT$570）"
+      "鴨腳木蜂蜜蛋糕+布朗尼脆片 / NT$690（原價 NT$700）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -213,9 +213,9 @@ const PRODUCTS = [
     "ingredients": "蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "specs": [
       "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
-      "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "葡萄乾尬核桃 / NT$330（原價 NT$350）",
       "原味 / NT$210（原價 NT$250）",
+      "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "芝麻米貝果 / NT$260（原價 NT$300）"
     ],
     "minOrder": 0,
@@ -348,8 +348,8 @@ const PRODUCTS = [
     "detail": "使用蓬萊米粉來製作杏仁瓦片，口感酥脆，杏仁片香濃，適合當下午茶點心 成份：杏仁片、蛋白、純糖粉、蓬萊米粉 規格：直徑8cm",
     "ingredients": "杏仁片、蛋白、純糖粉、蓬萊米粉 規格：直徑8cm",
     "specs": [
-      "一組24片 / NT$500（原價 NT$550）",
-      "一組12片 / NT$250（原價 NT$300）"
+      "一組12片 / NT$250（原價 NT$300）",
+      "一組24片 / NT$500（原價 NT$550）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -361,7 +361,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "新品上市預備備，目前正在繼續改良中，猜猜看他是什麼~~",
     "url": "https://www.instagram.com/p/DaUO183ywwd/",
-    "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8x2uLX_Wc84Q7kNvwHjsmHl&_nc_oc=AdrBqVlEXLEooBt9E6T4BCkPmfLAyPEIAsN1jj9x8yHS43dCzJ0UFngB394nVPOCjNE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=X4R1qMAdvWrMJd-NSkRxlQ&_nc_tpa=Q5bMBQGl03hh0aaB7OrZHyMBdtd1c1lcC9-BwxFWEeigwXHYNGFiloLFDyk-9_9_kxxKAV9_a4ISFqRXoQ&oh=00_AQBUQivLr__0pROBlM8mrcCstDSJkoGVWUZU33Y9FzIP0g&oe=6A62E2A2"
+    "image": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8x2uLX_Wc84Q7kNvwEt4x1X&_nc_oc=AdrHhLhCIBTlDanjXuQ9MEjYTq4w8rvkvrD5sqIqbSQQO-YMOCBY6vnocMZaz5RA-OY&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jAAgoWjiv1HR33kgln_1Gg&_nc_tpa=Q5bMBQHPMRpZ1pdPCSbLmgJXj3rAPya0kRMzj0l5qkUBR-3zraPzBdc4sMFY2Lj5zykw4LtGVc_qXyVxQA&oh=00_AQDkwAUAQyb9nmBAUCwHDSLEJ6Ybcp9U5snDSGMVHyDGNA&oe=6A643422"
   }
 ];
 
