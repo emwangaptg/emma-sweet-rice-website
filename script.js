@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-07-20T19:53:50.865Z";
+const SITE_DATA_UPDATED_AT = "2026-07-21T19:46:03.365Z";
 const PRODUCTS = [
   {
     "id": "2602121036723172",
@@ -212,9 +212,9 @@ const PRODUCTS = [
     "detail": "原味貝果 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "ingredients": "蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "specs": [
-      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
-      "葡萄乾尬核桃 / NT$330（原價 NT$350）",
       "原味 / NT$210（原價 NT$250）",
+      "葡萄乾尬核桃 / NT$330（原價 NT$350）",
+      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "芝麻米貝果 / NT$260（原價 NT$300）"
     ],
@@ -316,8 +316,8 @@ const PRODUCTS = [
     "detail": "成份：蓬萊米粉、無鹽奶油、白巧克力、葡萄乾、純糖粉、白蘭地、雞蛋、杏仁粉、奶粉、洋車前子粉、鹽 這款餅乾使用全天然的無麩質材料，適合對麩質過敏的人士食用。餅乾的外層酥脆可口，內層則是佐以香濃的白蘭地酒醃漬的葡萄拌入香濃但不膩口的奶油夾心，口感豐富，令人回味無窮。無論是下午茶、小酌時或是送禮自用，都是不錯的選擇。",
     "ingredients": "蓬萊米粉、無鹽奶油、白巧克力、葡萄乾、純糖粉、白蘭地、雞蛋、杏仁粉、奶粉、洋車前子粉、鹽 這款餅乾使用全天然的無麩質材料，適合對麩質過敏的人士食用。餅乾的外層酥脆可口，內層則是佐以香濃的白蘭地酒醃漬的葡萄拌入香濃但不膩口的奶油夾心，口感豐富，令人回味無窮。無論是下午茶、小酌時或是送禮自用，都是不錯的選擇。",
     "specs": [
-      "30塊一組 / NT$1700（原價 NT$1840）",
-      "15塊一組 / NT$880（原價 NT$920）"
+      "15塊一組 / NT$880（原價 NT$920）",
+      "30塊一組 / NT$1700（原價 NT$1840）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -361,7 +361,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "新品上市預備備，目前正在繼續改良中，猜猜看他是什麼~~",
     "url": "https://www.instagram.com/p/DaUO183ywwd/",
-    "image": "https://scontent-sjc3-1.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8x2uLX_Wc84Q7kNvwEt4x1X&_nc_oc=AdrHhLhCIBTlDanjXuQ9MEjYTq4w8rvkvrD5sqIqbSQQO-YMOCBY6vnocMZaz5RA-OY&_nc_zt=23&_nc_ht=scontent-sjc3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=jAAgoWjiv1HR33kgln_1Gg&_nc_tpa=Q5bMBQHPMRpZ1pdPCSbLmgJXj3rAPya0kRMzj0l5qkUBR-3zraPzBdc4sMFY2Lj5zykw4LtGVc_qXyVxQA&oh=00_AQDkwAUAQyb9nmBAUCwHDSLEJ6Ybcp9U5snDSGMVHyDGNA&oe=6A643422"
+    "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8x2uLX_Wc84Q7kNvwHUBrUg&_nc_oc=AdoXQ2F8qi4vkarbOd8_-gjMsCHXt20E7IPknvam7VqdcI22itw8vtnKnC5AVhruXOg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=yL8K081vNaVSlt73clRjZg&_nc_tpa=Q5bMBQHRo1rKRePi1egwef81QnZYHLQ0KJhM8DqcBkOSU2KKheP0AfJQfjjTyrSObH4Rxxv9hzUmpUsrXw&oh=00_AQDAbebwn12Z6b91kcO7j2D0vILzzQBjvfFCi8vto0Cx2Q&oe=6A6585A2"
   }
 ];
 
