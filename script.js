@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-07-21T19:46:03.365Z";
+const SITE_DATA_UPDATED_AT = "2026-07-22T19:39:28.579Z";
 const PRODUCTS = [
   {
     "id": "2602121036723172",
@@ -78,14 +78,14 @@ const PRODUCTS = [
     "detail": "成份：如圖片 六顆一組 『初語』不只是寶寶的開口，也象徵著稻米的成長與甜蜜的開始。 我們希望這份禮盒，不只是點心，更能代表祝福與分享。因此設計成『寶寶搖籃』的造型，象徵新生、豐收與家人朋友的歡聚。 這份甜點就像是一份甜蜜的祝賀，使用台灣在地的米和水果，迎接新生命的到來。」 《米仔初語》有兩款口味：香蕉＋百香果，以及芭樂＋火龍果，分別代表了男寶與女寶，所以客人在購買時會是一整盒同一口味，並不會有一盒裡有兩種口味的合體。也有無水果的版本可供選擇，棉花糖使用天然色素 《米仔初語》是一份從台灣土地出發的甜點，結合了無麩質的理念、在地水果的風味，以及對新生命的祝福。 *有特殊數量需求可私訊討論*",
     "ingredients": "如圖片 六顆一組 『初語』不只是寶寶的開口，也象徵著稻米的成長與甜蜜的開始。 我們希望這份禮盒，不只是點心，更能代表祝福與分享。因此設計成『寶寶搖籃』的造型，象徵新生、豐收與家人朋友的歡聚。 這份甜點就像是一份甜蜜的祝賀，使用台灣在地的米和水果，迎接新生命的到來。」 《米仔初語》有兩款口味：香蕉＋百香果，以及芭樂＋火龍果，分別代表了男寶與女寶，所以客人在購買時會是一整盒同一口味，並不會有一盒裡有兩種口味的合體。也有無水果的版本可供選擇，棉花糖使用天然色素 《米仔初語》是一份從台灣土地出發的甜點，結合了無麩質的理念、在地水果的風味，以及對新生命的祝福。 *有特殊數量需求可私訊討論*",
     "specs": [
-      "男寶（梔子藍棉花糖）+（香蕉+百香果）有搖籃 / NT$800",
-      "女寶（梔子紅棉花糖）+（芭樂+火龍果）有搖籃 / NT$800",
       "男寶（梔子藍棉花糖）+（香蕉+百香果）無搖籃 / NT$670",
       "女寶（梔子紅棉花糖）+（芭樂+火龍果）無搖籃 / NT$670",
       "男寶（梔子藍棉花糖）無水果有搖籃 / NT$600",
       "女寶（梔子紅棉花糖）無水果有搖籃 / NT$600",
       "男寶（梔子藍棉花糖）無水果無搖籃 / NT$490",
-      "女寶（梔子紅棉花糖）無水果無搖籃 / NT$490"
+      "女寶（梔子紅棉花糖）無水果無搖籃 / NT$490",
+      "女寶（梔子紅棉花糖）+（芭樂+火龍果）有搖籃 / NT$800",
+      "男寶（梔子藍棉花糖）+（香蕉+百香果）有搖籃 / NT$800"
     ],
     "minOrder": 0,
     "maxOrder": 0
@@ -212,10 +212,10 @@ const PRODUCTS = [
     "detail": "原味貝果 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "ingredients": "蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "specs": [
-      "原味 / NT$210（原價 NT$250）",
-      "葡萄乾尬核桃 / NT$330（原價 NT$350）",
-      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
+      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
+      "葡萄乾尬核桃 / NT$330（原價 NT$350）",
+      "原味 / NT$210（原價 NT$250）",
       "芝麻米貝果 / NT$260（原價 NT$300）"
     ],
     "minOrder": 0,
@@ -361,7 +361,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "新品上市預備備，目前正在繼續改良中，猜猜看他是什麼~~",
     "url": "https://www.instagram.com/p/DaUO183ywwd/",
-    "image": "https://scontent-iad3-1.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=8x2uLX_Wc84Q7kNvwHUBrUg&_nc_oc=AdoXQ2F8qi4vkarbOd8_-gjMsCHXt20E7IPknvam7VqdcI22itw8vtnKnC5AVhruXOg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=yL8K081vNaVSlt73clRjZg&_nc_tpa=Q5bMBQHRo1rKRePi1egwef81QnZYHLQ0KJhM8DqcBkOSU2KKheP0AfJQfjjTyrSObH4Rxxv9hzUmpUsrXw&oh=00_AQDAbebwn12Z6b91kcO7j2D0vILzzQBjvfFCi8vto0Cx2Q&oe=6A6585A2"
+    "image": "https://scontent-ord5-1.cdninstagram.com/v/t51.82787-15/730226347_17990752208989616_8891711894729628015_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=d9hHUsfbJRAQ7kNvwFj71GN&_nc_oc=AdoKW8mHSC5mClJT1W7Cu1j7gCEfpOl0umhsVt3qEHF1QnsAb6tBD9D4R3qMgeIbmf8&_nc_zt=23&_nc_ht=scontent-ord5-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=7Q7xBgq4YOn3Z2_2VkrETQ&_nc_tpa=Q5bMBQHFOnRmwi6jXDuWQzLjssTH18IzwchJv_ZNbfDdfNp2B1e4i7FRGp7RfRrHQp1tdFGz3nGYzDbLig&oh=00_AQDQFil7dKXDEcMOl5LQvu32OnmBCXPWOplXaEbCMHSC_w&oe=6A66D722"
   }
 ];
 
