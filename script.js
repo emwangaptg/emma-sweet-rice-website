@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-08-01T19:23:10.026Z";
+const SITE_DATA_UPDATED_AT = "2026-08-02T19:23:15.666Z";
 const PRODUCTS = [
   {
     "id": "2608011285762125",
@@ -376,7 +376,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "嘿！ 有沒有一個味道，讓你聞到就會想到那個時候， 。 傍晚的台北車站，飢腸轆轆的學生時代，地下街那一股濃濃的咖啡香，轉個彎，就為了那個熱騰騰的墨西哥麵包。 現在，那個回憶，我幫你帶回來了 #無麩質 #墨西哥麵包 #台灣米穀粉 成分：蓬萊米粉...",
     "url": "https://www.instagram.com/p/Dbf1qEKySRP/",
-    "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/763381160_17995176650989616_3006548006395763900_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_cXuLz-GNlMQ7kNvwFvxe0D&_nc_oc=Adqoou3n-AhQvGKtWtrMHkz18SW_sG-xFuqQUZct55ooWDBBCn1xRkX-HAUNMsNlFl0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=2j5pF0fPW7PLZvQ3K2X3ig&_nc_tpa=Q5bMBQEs98Y0epsMs0wXVpvWPtaUcQG5AzuvTqtdBwBr6zJBXiep_Anukt8q_fKsWB24jzOR1bdcEWPzZA&oh=00_AQEWCW8IRxDPg6EAAzpq9LOBd2MhTuMsXE9TNF6dDeCWcg&oe=6A742F1A"
+    "image": "https://scontent-dfw6-2.cdninstagram.com/v/t51.82787-15/763381160_17995176650989616_3006548006395763900_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_cXuLz-GNlMQ7kNvwFf1d0-&_nc_oc=AdqATgyON-ZJzNQhrWgBWD5KLXDASBbyRFzl9qeQnHgfT6MhkHgpslyB1XvmmtnKiNQ&_nc_zt=23&_nc_ht=scontent-dfw6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1ycSiS_JoN7vuXdJDtg9pQ&_nc_tpa=Q5bMBQGg8TRyAiV5l5oQKmBYtIX8D6K8U-Pgfd9gWjq_r046Eu1gk0azHuf602GnyKEg8R15C5LB2Oa82w&oh=00_AQEiUiHb5OwKinTgpXcjhDDtif88YL6TUtZAgk-iyad20A&oe=6A75809A"
   }
 ];
 
