@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-08-09T18:54:55.021Z";
+const SITE_DATA_UPDATED_AT = "2026-08-10T19:10:15.236Z";
 const PRODUCTS = [
   {
     "id": "2608011285762125",
@@ -92,14 +92,14 @@ const PRODUCTS = [
     "detail": "成份：如圖片 六顆一組 『初語』不只是寶寶的開口，也象徵著稻米的成長與甜蜜的開始。 我們希望這份禮盒，不只是點心，更能代表祝福與分享。因此設計成『寶寶搖籃』的造型，象徵新生、豐收與家人朋友的歡聚。 這份甜點就像是一份甜蜜的祝賀，使用台灣在地的米和水果，迎接新生命的到來。」 《米仔初語》有兩款口味：香蕉＋百香果，以及芭樂＋火龍果，分別代表了男寶與女寶，所以客人在購買時會是一整盒同一口味，並不會有一盒裡有兩種口味的合體。也有無水果的版本可供選擇，棉花糖使用天然色素 《米仔初語》是一份從台灣土地出發的甜點，結合了無麩質的理念、在地水果的風味，以及對新生命的祝福。 *有特殊數量需求可私訊討論*",
     "ingredients": "如圖片 六顆一組 『初語』不只是寶寶的開口，也象徵著稻米的成長與甜蜜的開始。 我們希望這份禮盒，不只是點心，更能代表祝福與分享。因此設計成『寶寶搖籃』的造型，象徵新生、豐收與家人朋友的歡聚。 這份甜點就像是一份甜蜜的祝賀，使用台灣在地的米和水果，迎接新生命的到來。」 《米仔初語》有兩款口味：香蕉＋百香果，以及芭樂＋火龍果，分別代表了男寶與女寶，所以客人在購買時會是一整盒同一口味，並不會有一盒裡有兩種口味的合體。也有無水果的版本可供選擇，棉花糖使用天然色素 《米仔初語》是一份從台灣土地出發的甜點，結合了無麩質的理念、在地水果的風味，以及對新生命的祝福。 *有特殊數量需求可私訊討論*",
     "specs": [
-      "男寶（梔子藍棉花糖）無水果無搖籃 / NT$490",
-      "女寶（梔子紅棉花糖）無水果無搖籃 / NT$490",
       "男寶（梔子藍棉花糖）+（香蕉+百香果）有搖籃 / NT$800",
       "女寶（梔子紅棉花糖）+（芭樂+火龍果）有搖籃 / NT$800",
       "男寶（梔子藍棉花糖）+（香蕉+百香果）無搖籃 / NT$670",
       "女寶（梔子紅棉花糖）+（芭樂+火龍果）無搖籃 / NT$670",
       "男寶（梔子藍棉花糖）無水果有搖籃 / NT$600",
-      "女寶（梔子紅棉花糖）無水果有搖籃 / NT$600"
+      "女寶（梔子紅棉花糖）無水果有搖籃 / NT$600",
+      "男寶（梔子藍棉花糖）無水果無搖籃 / NT$490",
+      "女寶（梔子紅棉花糖）無水果無搖籃 / NT$490"
     ],
     "minOrder": 0,
     "maxOrder": 0
@@ -141,8 +141,8 @@ const PRODUCTS = [
     "detail": "探索蜂蜜米蛋糕的獨特魅力，無需麵粉的限制，讓美味無負擔。適合作為下午茶點心或聚會分享，與好友共度甜蜜時光，讓這份天然滋味在舌尖舞動，為生活增添一份愉悅與驚喜！ 重量：270g",
     "ingredients": "依賣貨便商品頁與包裝標示為準。",
     "specs": [
-      "原味 / NT$320（原價 NT$350）",
-      "鴨腳木蜜 / NT$350（原價 NT$380）"
+      "鴨腳木蜜 / NT$350（原價 NT$380）",
+      "原味 / NT$320（原價 NT$350）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -376,7 +376,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "到 IG 查看最新貼文",
     "url": "https://www.instagram.com/p/Dbxxty7kuNU/",
-    "image": "https://scontent-lhr11-1.cdninstagram.com/v/t51.82787-15/767793766_17996251139989616_2283779312665045075_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=eklEdmhtFhMQ7kNvwH4grFW&_nc_oc=Adp5Mfhgr48d_USxJfahnL3PzfGaJkzC4QcO9fS1kQsTlYl9SaXp4ae-PBCSBpwuUzY&_nc_zt=23&_nc_ht=scontent-lhr11-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=6CbAtgKPdqz55MZjdymcHw&_nc_tpa=Q5bMBQLUHbt5Iu0_29aeUcdOVvt3AELbGyYW2UGIXrRt17D4r-zpmoOE_eAJvjJbx8cqAyT_3US1TiWqhg&oh=00_AQEjeDCoofBvi-0OFn9XLoB1vuayPeW6sZeiRfLNl9Wy0w&oe=6A7EA7DB"
+    "image": "https://scontent-sjc6-1.cdninstagram.com/v/t51.82787-15/767793766_17996251139989616_2283779312665045075_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=eklEdmhtFhMQ7kNvwEihQtu&_nc_oc=AdpZVyD7eizLIZ5pI-VxqoBflc7Bp_1grXLIdHaq5AEkP9b3BFa_DNhmA6JAdyhDvmY&_nc_zt=23&_nc_ht=scontent-sjc6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=R8hLETZCx3TQ4qfRGfEnGw&_nc_tpa=Q5bMBQK_lclPWbgzFLLpkq8hfRcWgVqsqJBzhtQfvPQc8Obcy47M_-oAtOKmHTJJDm3Fbde_S1hRH5_L8A&oh=00_AQGeVCcAIEI6C_MZRLt_adQAa3Hlp0CWnUtIPoRwLsBGZg&oe=6A7FF95B"
   }
 ];
 
