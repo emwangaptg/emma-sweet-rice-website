@@ -1,6 +1,6 @@
 const STORE_URL = "https://myship.7-11.com.tw/general/detail/GM2305188665189";
 const IG_URL = "https://www.instagram.com/emma_sweet_rice/";
-const SITE_DATA_UPDATED_AT = "2026-08-13T19:15:05.298Z";
+const SITE_DATA_UPDATED_AT = "2026-08-14T19:07:47.085Z";
 const PRODUCTS = [
   {
     "id": "2608011285762125",
@@ -92,14 +92,14 @@ const PRODUCTS = [
     "detail": "成份：如圖片 六顆一組 『初語』不只是寶寶的開口，也象徵著稻米的成長與甜蜜的開始。 我們希望這份禮盒，不只是點心，更能代表祝福與分享。因此設計成『寶寶搖籃』的造型，象徵新生、豐收與家人朋友的歡聚。 這份甜點就像是一份甜蜜的祝賀，使用台灣在地的米和水果，迎接新生命的到來。」 《米仔初語》有兩款口味：香蕉＋百香果，以及芭樂＋火龍果，分別代表了男寶與女寶，所以客人在購買時會是一整盒同一口味，並不會有一盒裡有兩種口味的合體。也有無水果的版本可供選擇，棉花糖使用天然色素 《米仔初語》是一份從台灣土地出發的甜點，結合了無麩質的理念、在地水果的風味，以及對新生命的祝福。 *有特殊數量需求可私訊討論*",
     "ingredients": "如圖片 六顆一組 『初語』不只是寶寶的開口，也象徵著稻米的成長與甜蜜的開始。 我們希望這份禮盒，不只是點心，更能代表祝福與分享。因此設計成『寶寶搖籃』的造型，象徵新生、豐收與家人朋友的歡聚。 這份甜點就像是一份甜蜜的祝賀，使用台灣在地的米和水果，迎接新生命的到來。」 《米仔初語》有兩款口味：香蕉＋百香果，以及芭樂＋火龍果，分別代表了男寶與女寶，所以客人在購買時會是一整盒同一口味，並不會有一盒裡有兩種口味的合體。也有無水果的版本可供選擇，棉花糖使用天然色素 《米仔初語》是一份從台灣土地出發的甜點，結合了無麩質的理念、在地水果的風味，以及對新生命的祝福。 *有特殊數量需求可私訊討論*",
     "specs": [
+      "男寶（梔子藍棉花糖）無水果無搖籃 / NT$490",
+      "女寶（梔子紅棉花糖）無水果無搖籃 / NT$490",
       "男寶（梔子藍棉花糖）+（香蕉+百香果）有搖籃 / NT$800",
       "女寶（梔子紅棉花糖）+（芭樂+火龍果）有搖籃 / NT$800",
       "男寶（梔子藍棉花糖）+（香蕉+百香果）無搖籃 / NT$670",
       "女寶（梔子紅棉花糖）+（芭樂+火龍果）無搖籃 / NT$670",
       "男寶（梔子藍棉花糖）無水果有搖籃 / NT$600",
-      "女寶（梔子紅棉花糖）無水果有搖籃 / NT$600",
-      "男寶（梔子藍棉花糖）無水果無搖籃 / NT$490",
-      "女寶（梔子紅棉花糖）無水果無搖籃 / NT$490"
+      "女寶（梔子紅棉花糖）無水果有搖籃 / NT$600"
     ],
     "minOrder": 0,
     "maxOrder": 0
@@ -226,9 +226,9 @@ const PRODUCTS = [
     "detail": "原味貝果 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "ingredients": "蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g) 葡萄乾尬核桃 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、葡萄乾、核桃 重量：520g(一組四個，每個130g) 草莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、草莓果醬 重量：110g 藍莓米貝果(無內餡)每份四顆 成分：蓬萊米粉、水、砂糖、玄米油、鹽、酵母粉、洋車前子粉、藍莓果醬 重量：110g 芝麻貝果 成分：蓬萊米粉、水、砂糖、芝麻醬、芝麻粉、玄米油、鹽、酵母粉、洋車前子粉 重量：440g(一組四個，每個110g)",
     "specs": [
-      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "葡萄乾尬核桃 / NT$330（原價 NT$350）",
       "原味 / NT$210（原價 NT$250）",
+      "藍莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "草莓米貝果（無內餡） / NT$300（原價 NT$330）",
       "芝麻米貝果 / NT$260（原價 NT$300）",
       "荔枝乾貝果 / NT$340"
@@ -363,8 +363,8 @@ const PRODUCTS = [
     "detail": "使用蓬萊米粉來製作杏仁瓦片，口感酥脆，杏仁片香濃，適合當下午茶點心 成份：杏仁片、蛋白、純糖粉、蓬萊米粉 規格：直徑8cm",
     "ingredients": "杏仁片、蛋白、純糖粉、蓬萊米粉 規格：直徑8cm",
     "specs": [
-      "一組12片 / NT$250（原價 NT$300）",
-      "一組24片 / NT$500（原價 NT$550）"
+      "一組24片 / NT$500（原價 NT$550）",
+      "一組12片 / NT$250（原價 NT$300）"
     ],
     "minOrder": 0,
     "maxOrder": 2
@@ -376,7 +376,7 @@ const INSTAGRAM_POSTS = [
     "title": "最新 IG 貼文",
     "caption": "🐯 父親節限定｜無麩質虎皮天使蛋糕捲 今年父親節，想做一個爸爸會喜歡的蛋糕。 因為爸爸喜歡虎皮蛋糕，所以決定自己來挑戰，而且當然要做成我能一起吃的無麩質版本。 外層是滿滿蛋香的虎皮，烤到金黃、自然形成一圈圈不規則的虎紋；裡面則是完全不使用...",
     "url": "https://www.instagram.com/p/Dbxxty7kuNU/",
-    "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/767793766_17996251139989616_2283779312665045075_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=o6_FHiqzzdcQ7kNvwEfYo6q&_nc_oc=AdpnuTKFl86RbOXi4bb426n2sZ_a-4aib1Gr_ywyHRGoeiHbEPFn2pEokQxou35exDg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=DRQCXISxq6qJ02MCJjOvAA&_nc_tpa=Q5bMBQIllSxnuDdUf6SmGN_mWLiPquHKUi0__WJoH51w8J622RHa-4ZrwKtxudbL7m_8ago1Icn4GMUVHQ&oh=00_AQGbw5q9W6mCEu1amrusqTnYUt0sNFB2PXkJ4vlDMNx0Ig&oe=6A83EDDB"
+    "image": "https://scontent-iad6-1.cdninstagram.com/v/t51.82787-15/767793766_17996251139989616_2283779312665045075_n.webp?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=o6_FHiqzzdcQ7kNvwEf2n0i&_nc_oc=Adq6OF33cZfcElgIk-50_TmUvDeTBM5hA1Mhba0fk60nN4-5Rt9UrWvJAM_aKuA1QTs&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Mn7ZwzjSoZstgcj81V_Yaw&_nc_tpa=Q5bMBQLO60WPlTH5tAfLN9-lt656R5kYS2SzTjJPTa4Hg0VNL5AHKYGC6BvunOwMG1s9lV7XxbXHAQB_uQ&oh=00_AQH3W6sbDhoaKDPHUBEeLCX4te-llw7-jlHF1wgwBzMZwg&oe=6A853F5B"
   }
 ];
 
